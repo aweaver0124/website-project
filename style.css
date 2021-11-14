@@ -1,13 +1,18 @@
 body {
     background: pink;
 }
-.header nav a {
+header {
+    background-color: white;
+    display: block;
+    padding-left: 100px;
+}
+header nav a {
     border-bottom: 2px solid green;
     color: black;
     margin: 0 8px;
     text-decoration: none;
     float: left
 }
-.header nav a:hover {
+header nav a:hover {
     background: green;
 }
