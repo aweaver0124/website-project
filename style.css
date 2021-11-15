@@ -9,12 +9,15 @@ body {
     background-color: white;
     background-position: center center;
     background-repeat: no-repeat;
-    padding: 20px;
     text-align: center;
     height: 175px;
     width: 230px;
 }
-#intro {
+h2 {
     text-align: center;
-    width: auto;
+}
+#intro p {
+    text-align: center;
+    width: 800px;
+    margin: auto;
 }
