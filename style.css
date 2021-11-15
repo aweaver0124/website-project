@@ -1,6 +1,8 @@
 body {
     background: url(https://media1.popsugar-assets.com/files/thumbor/TX9naAGOWgoSQM94AidjXrfeyqA/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/01/14/843/n/1922507/dc8bfea2c1e7f671_guillaume-galtier-5aklrccCH7w-unsplash/i/Pink-Sky-Zoom-Background.jpg);
     background-size: cover;
+    color:darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 .header {
@@ -9,17 +11,10 @@ body {
     background-repeat: no-repeat;
     padding: 20px;
     text-align: center;
-    height: 75px;
-    width: 95px;
+    height: 175px;
+    width: 230px;
 }
-
-.header nav a {
-    border-bottom: 2px solid green;
-    color: black;
-    margin: 0 8px;
-    text-decoration: none;
+#intro {
     text-align: center;
-}
-.header nav a:hover {
-    background: green;
+    width: auto;
 }
