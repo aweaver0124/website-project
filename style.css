@@ -12,13 +12,16 @@ header {
     width: 100%;
 }
 header h1 {
-    font-size: 50px;
-    text-align: right;
-    vertical-align: center;
+    float: right;
+    height: 100%;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
+    padding-right: 200px;
+    margin-top: 150px;
 }
 header img {
-    width: 180px;
+    width: 195px;
     height: 310px;
     margin-bottom: 50px;
     margin-left: 50px;
@@ -39,11 +42,14 @@ header img {
     width: 650px;
     padding-left: 450px;
 }
-.education {
+.education h2 {
     text-align: center;
+}
+.education {
+    text-align: left;
     position: center center;
     width: 550px;
     margin-top: 40px;
     margin-bottom: 40px;
-    padding-left: 450px;
+    padding-left: 485px;
 }
