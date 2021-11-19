@@ -14,7 +14,7 @@ header {
 header h1 {
     float: right;
     height: 100%;
-    font-size: 70px;
+    font-size: 85px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     padding-right: 200px;
@@ -23,7 +23,8 @@ header h1 {
 header img {
     width: 195px;
     height: 310px;
-    margin-bottom: 50px;
+    margin-top: 25px;
+    margin-bottom: 30px;
     margin-left: 50px;
     border: 8px solid white;
 }
@@ -47,9 +48,9 @@ header img {
 }
 .education {
     text-align: left;
-    position: center center;
     width: 550px;
     margin-top: 40px;
     margin-bottom: 40px;
-    padding-left: 485px;
+	padding-left: 485px;
+    
 }
